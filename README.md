@@ -1,4 +1,4 @@
-SKILLFUL CLOTHES REVAMP - 1.0.0
+SKILLFUL CLOTHES REVAMP - 1.0.2
 A revamp of Skillful Clothes by Lunatic Shade
 
 |||REQUIREMENTS|||
@@ -15,13 +15,13 @@ A revamp of Skillful Clothes by Lunatic Shade
 - 16 pants with custom effects
 - Changes to tailoring recipes of several items
 - Rebalances monsters for a slightly more challenging experience which gradually becomes easier
+- Added clothing forging system built into tailoring machine UI
 
 |||HOW TO CUSTOMIZE|||
 - In the mods SkillfulClothes folder you will find three .json files for custom clothing effects. 
 	This is where you can remove, change, and add effects to shirts, hats and pants.
 
 |||KNOWN ISSUES / ROADMAP|||
-- Implement system for sprite customization on clothing
 - Add ability for ring effects to be conditional
 - Fix Leprechaun Hat issues
 - Remove Herobrine
