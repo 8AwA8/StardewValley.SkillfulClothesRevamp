@@ -24,7 +24,6 @@ A revamp of Skillful Clothes by Lunatic Shade
 |||KNOWN ISSUES / ROADMAP|||
 - Add ability for ring effects to be conditional
 - Fix Leprechaun Hat issues
-- Remove Herobrine
 
 |||CREDITS|||
 - Lunatic Shade for base of mod
