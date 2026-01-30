@@ -4,15 +4,10 @@ A revamp of Skillful Clothes by Lunatic Shade
 |||REQUIREMENTS|||
 - Content Patcher downloaded and up to date
 - SMAPI downloaded and up to date
-- StardewHack
-- HAS NOT BEEN THOROUGHLY TESTED FOR SV VERSIONS LESS THAN 1.6 (Though should be okay)
 
 |||FEATURES|||
-- 47 custom effects which can be assigned to clothing items
-- 5 conditions for custom effects to be applied by
-- 82 hats with custom effects
-- 85 shirts with custom effects
-- 16 pants with custom effects
+- 67 Clothing Effects
+- >250 Impacted clothes
 - Changes to tailoring recipes of several items
 - Rebalances monsters for a slightly more challenging experience which gradually becomes easier
 - Added clothing forging system built into tailoring machine UI
